@@ -57,7 +57,7 @@ public class Old_Vehicle   {
 		 
 		WebDriver driver = lb.launchBrowser("chrome");
 		
-		lb.loadUrl("https://www.facebook.com/");
+		lb.loadUrl("https://experience.novactech.in/digital/sgi/fwl/login.html");
 		
 //		https://experience.novactech.in/digital/sgi/fwl/login.html
 		

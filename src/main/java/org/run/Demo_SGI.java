@@ -17,7 +17,7 @@ public class Demo_SGI  {
 		List<String> suitefiles=new ArrayList<String>();
 
 		// Add xml file which you have to execute
-		suitefiles.add("C:\\Users\\a1354\\eclipse-workspace\\New_SGI\\src\\main\\resources\\testng.xml");
+		suitefiles.add("testng.xml");
 
 		// now set xml file for execution
 		runner.setTestSuites(suitefiles);

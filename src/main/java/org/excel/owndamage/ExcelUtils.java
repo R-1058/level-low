@@ -11,7 +11,7 @@ public class ExcelUtils {
             ArrayList<Object[]> myData=new ArrayList<Object[]>();
             try {
             
-                reader=new ReadExcel("C:\\Users\\a1354\\eclipse-workspace\\New_SGI\\Excel\\Sgi.xlsx");
+                reader=new ReadExcel("Sgi.xlsx");
                 
                     
                 
