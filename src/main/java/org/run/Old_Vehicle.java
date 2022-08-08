@@ -57,7 +57,7 @@ public class Old_Vehicle   {
 		 
 		WebDriver driver = lb.launchBrowser("chrome");
 		
-		lb.loadUrl("https://experience.novactech.in/digital/sgi/fwl/login.html");
+		lb.loadUrl("http://sitfw.shriramgi.com/car-insurance-online/");
 		
 //		https://experience.novactech.in/digital/sgi/fwl/login.html
 		
